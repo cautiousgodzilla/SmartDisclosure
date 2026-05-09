@@ -1,0 +1,8 @@
+{
+  "name": "SmartDisclosure",
+  "description": "A frictionless, AI-powered Invention Disclosure Form (IDF) that uses conversational intelligence to extract technical details and prepare legal documentation without login barriers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
